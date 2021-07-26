@@ -1,1 +1,2 @@
-# C-course EX
+# Trie implementation
+C language
